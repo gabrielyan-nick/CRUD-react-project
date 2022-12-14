@@ -1,0 +1,9 @@
+.app {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+:root {
+  --bg-color: rgba(20, 1, 24, 0.705);
+  --text-color: rgb(242, 236, 247);
+}
